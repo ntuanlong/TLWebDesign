@@ -1,0 +1,16 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Roboto, arial;
+}
+
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 40px;
+}
+
+body{
+  margin: 0;
+}
